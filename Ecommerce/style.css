@@ -1,0 +1,19 @@
+.carousel {
+    padding-top: 4%;
+}
+/* body{
+    background-color: rgb(177, 123, 228);
+} */
+.navbar-brand{
+    font-size: 1.5rem;
+    color: black;
+    font-family: 'Inspiration', cursive;
+    font-weight: bold;
+}
+/* .card {
+    height: 70px;
+} */
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
